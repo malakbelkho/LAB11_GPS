@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="geo_navy">#102A43</color>
+    <color name="geo_blue">#1E88E5</color>
+    <color name="geo_cyan">#00B8D9</color>
+    <color name="geo_green">#00B894</color>
+    <color name="geo_orange">#FFB703</color>
+    <color name="geo_white">#FFFFFF</color>
+    <color name="geo_soft_white">#EEFFFFFF</color>
+    <color name="geo_text_dark">#243B53</color>
+    <color name="geo_text_muted">#627D98</color>
+</resources>
